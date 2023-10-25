@@ -25,8 +25,4 @@ const divideTwoNumbers = (num1, num2) => {
 };
 
 //Display the solution to each of the functions.
-//Test each as create
-console.log (addTwoNumbers(2,2));
-console.log (multiplyTwoNumbers(2,2));
-console.log (subtractTwoNumbers(2,2));
-console.log (divideTwoNumbers(2,0));
+//Test each as created
